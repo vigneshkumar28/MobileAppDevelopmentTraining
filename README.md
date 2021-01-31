@@ -47,7 +47,7 @@ To run your project, navigate to the directory and run one of the following npm 
 4) npm start
 
 5) After runing 4 
-> @ start C:\Users\VIGNESHKUMAR.R\Documents\AwesomeProject
+> @ start C:\Users\Username\Documents\AwesomeProject
 > expo start
 
 Starting project at C:\Users\Username\Documents\AwesomeProject
